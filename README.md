@@ -20,7 +20,7 @@ Bibliotecas:
 
 # Simulação Wokwi
 
-https://wokwi.com/projects/305569599398609473 
+https://wokwi.com/projects/447406414735547393 
 
 # Video Explicativo
 
