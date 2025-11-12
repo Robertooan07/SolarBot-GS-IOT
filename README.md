@@ -24,6 +24,8 @@ https://wokwi.com/projects/305569599398609473
 
 # Video Explicativo
 
+https://youtu.be/rH6Scso4AfI
+
 # MQTT
 Tópico utilizado: usina/monitoramento
 Broker: test.mosquitto.org
