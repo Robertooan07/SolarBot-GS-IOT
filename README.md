@@ -9,7 +9,7 @@ Usinas solares frequentemente enfrentam queda de desempenho por fatores como aqu
 
 # Solução
 
-a solução é um ecossistema IoT completo baseado em um ESP32 integrado a sensores DHT22 (temperatura e umidade), LDR (intensidade luminosa) e um potenciômetro para simular variações de eficiência. Esses dados são transmitidos continuamente através do protocolo MQTT para um broker, onde são processados e exibidos em tempo real em um dashboard interativo no Node-RED. A solução proporciona visualização clara, comunicação leve e uma base sólida para futuras expansões, como alertas automáticos, armazenamento em nuvem ou análise preditiva.
+A solução é um ecossistema IoT completo baseado em um ESP32 integrado a sensores DHT22 (temperatura e umidade), LDR (intensidade luminosa) e um potenciômetro para simular variações de eficiência. Esses dados são transmitidos continuamente através do protocolo MQTT para um broker, onde são processados e exibidos em tempo real em um dashboard interativo no Node-RED. A solução proporciona visualização clara, comunicação leve e uma base sólida para futuras expansões, como alertas automáticos, armazenamento em nuvem ou análise preditiva.
 
 # Dependências
 
